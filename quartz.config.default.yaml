@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-    baseUrl: mochet555.github.io/Path-of-Finder
+  baseUrl: mochet555.github.io/Path-of-Finder
   ignorePatterns:
     - private
     - templates
